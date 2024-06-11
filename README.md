@@ -78,40 +78,40 @@ Deep dive into account abstraction and smart wallets on Fraxtal Mainnet.
 
 **Account Factory**
 
-0xE3FF9b2bc775bf6bb8a429cbaf6A6f4174f21688
+0xf24CDD7513E2A7697Eb5f7e1Af7Acea52b015F46
 
 Using Thirdweb
 
-https://opbnbscan.com/address/0xE3FF9b2bc775bf6bb8a429cbaf6A6f4174f21688
+https://fraxscan.com/address/0xf24cdd7513e2a7697eb5f7e1af7acea52b015f46
 
 **ERC721**
 
-0xbd95667a6639aef587b7a14EE0A850a557627aF4
+0x3731603f3083D61845460A71Ff519b34575f72A0
 
 Using Thirdweb
 
-https://opbnbscan.com/address/0xbd95667a6639aef587b7a14EE0A850a557627aF4
+https://fraxscan.com/address/0x3731603f3083d61845460a71ff519b34575f72a0
 
 **ERC20**
 
-0x890522076D01d53Bd7Bf5485B97362a5BC57A9F4
+0x123fD1D25e93DF77E62Cf954eF96Ad5704999e0D
 
 Using Thirdweb
 
-https://opbnbscan.com/address/0x890522076D01d53Bd7Bf5485B97362a5BC57A9F4
+https://fraxscan.com/address/0x123fd1d25e93df77e62cf954ef96ad5704999e0d
 
 **ERC1155**
 
-0x54701641AD0f848d41416b0539f8d2e2dCAf4326
+0xe37a909BFDAE24Ed9AC30603fdc761d95Aaa3C8B
 
 Using Thirdweb
 
-https://opbnbscan.com/address/0x54701641AD0f848d41416b0539f8d2e2dCAf4326
+https://fraxscan.com/address/0xe37a909bfdae24ed9ac30603fdc761d95aaa3c8b
 
 **Leaderboard**
 
-0x1BB1E16B604B2889aEC757D744BC4BC7E29643B6
+0x32347934877E45939D7D2459F900fAeD36056491
 
 Using Thirdweb
 
-https://opbnbscan.com/address/0x1BB1E16B604B2889aEC757D744BC4BC7E29643B6
+https://fraxscan.com/address/0x32347934877e45939d7d2459f900faed36056491
